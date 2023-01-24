@@ -21,13 +21,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.chrome_L8y60RzYYA.png
+![My Creation](chrome_L8y60RzYYA.png
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Componenet Solution([[https://your-solution-url.com](https://qr-code-solution-tawny.vercel.app/)](https://github.com/WillOfHeaven/QR-code-Solution))
+- Live Site URL: [QR Code Componenet Solution([https://your-solution-url.com](https://qr-code-solution-tawny.vercel.app/))
 
 ## My process
 
@@ -40,18 +40,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Some HTML code I'm proud of learning about the concept of flex box</h1>
 ```
 ```css
-.proud-of-this-css {
+.proud-of-this-css concept that I learn : media query {
   color: papayawhip;
 }
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
@@ -62,5 +57,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@WillOfHeaven]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/WillOfHeaven))
